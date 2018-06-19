@@ -1,0 +1,6 @@
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\05.SmallestPositiveIntegerEvenlyDivisible\bin\Debug\05.SmallestPositiveIntegerEvenlyDivisible.exe.config
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\05.SmallestPositiveIntegerEvenlyDivisible\bin\Debug\05.SmallestPositiveIntegerEvenlyDivisible.exe
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\05.SmallestPositiveIntegerEvenlyDivisible\bin\Debug\05.SmallestPositiveIntegerEvenlyDivisible.pdb
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\05.SmallestPositiveIntegerEvenlyDivisible\obj\Debug\05.SmallestPositiveIntegerEvenlyDivisible.exe
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\05.SmallestPositiveIntegerEvenlyDivisible\obj\Debug\05.SmallestPositiveIntegerEvenlyDivisible.pdb
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\05.SmallestPositiveIntegerEvenlyDivisible\obj\Debug\05.SmallestPositiveIntegerEvenlyDivisible.csprojResolveAssemblyReference.cache

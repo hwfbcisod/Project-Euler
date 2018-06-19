@@ -1,0 +1,1 @@
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\02.FibonacciSum\bin\Debug\02.FibonacciSum.exe.config

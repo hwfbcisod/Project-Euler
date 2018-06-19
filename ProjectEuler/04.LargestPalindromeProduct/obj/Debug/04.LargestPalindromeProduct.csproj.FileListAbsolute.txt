@@ -1,0 +1,6 @@
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\04.LargestPalindromeProduct\bin\Debug\04.LargestPalindromeProduct.exe.config
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\04.LargestPalindromeProduct\bin\Debug\04.LargestPalindromeProduct.exe
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\04.LargestPalindromeProduct\bin\Debug\04.LargestPalindromeProduct.pdb
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\04.LargestPalindromeProduct\obj\Debug\04.LargestPalindromeProduct.csprojResolveAssemblyReference.cache
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\04.LargestPalindromeProduct\obj\Debug\04.LargestPalindromeProduct.exe
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\04.LargestPalindromeProduct\obj\Debug\04.LargestPalindromeProduct.pdb

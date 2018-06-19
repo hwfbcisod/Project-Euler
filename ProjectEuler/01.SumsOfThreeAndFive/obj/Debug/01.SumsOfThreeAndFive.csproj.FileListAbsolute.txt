@@ -1,0 +1,6 @@
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\01.SumsOfThreeAndFive\bin\Debug\01.SumsOfThreeAndFive.exe.config
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\01.SumsOfThreeAndFive\bin\Debug\01.SumsOfThreeAndFive.exe
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\01.SumsOfThreeAndFive\bin\Debug\01.SumsOfThreeAndFive.pdb
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\01.SumsOfThreeAndFive\obj\Debug\01.SumsOfThreeAndFive.csprojResolveAssemblyReference.cache
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\01.SumsOfThreeAndFive\obj\Debug\01.SumsOfThreeAndFive.exe
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\01.SumsOfThreeAndFive\obj\Debug\01.SumsOfThreeAndFive.pdb

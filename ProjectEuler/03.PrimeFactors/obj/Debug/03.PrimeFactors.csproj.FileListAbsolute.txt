@@ -1,0 +1,6 @@
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\03.PrimeFactors\bin\Debug\03.PrimeFactors.exe.config
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\03.PrimeFactors\bin\Debug\03.PrimeFactors.exe
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\03.PrimeFactors\bin\Debug\03.PrimeFactors.pdb
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\03.PrimeFactors\obj\Debug\03.PrimeFactors.csprojResolveAssemblyReference.cache
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\03.PrimeFactors\obj\Debug\03.PrimeFactors.exe
+C:\Users\hwfbc\Documents\SoftUni\Project Euler\ProjectEuler\03.PrimeFactors\obj\Debug\03.PrimeFactors.pdb
